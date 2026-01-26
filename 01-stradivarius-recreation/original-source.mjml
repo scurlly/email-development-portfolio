@@ -1,0 +1,299 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" color="#000000" />
+
+      <mj-text line-height="1.4" font-size="14px" />
+
+      <mj-button font-weight="600" font-size="20px" border-radius="0px" inner-padding="15px 25px" />
+      <mj-class name="footer-small" color=' #9D9D9C' font-family=' Arial, Helvetica, sans-serif' font-size=' 9px' text-align='left' />
+    </mj-attributes>
+    <mj-style>
+      /* Mobile-Specific Overrides */
+      @media only screen and (max-width:480px) {
+      /* Shrink Huge Sale Titles */
+      .m-title h2 {
+      font-size: 34px !important;
+      line-height: 1.1 !important;
+      }
+      /* Scale down medium headers */
+      .m-header p {
+      font-size: 16px !important;
+      }
+      /* Adjust Button Text Size */
+      .m-button b {
+      font-size: 16px !important;
+      line-height: 28px !important;
+      }
+      /* Center everything on mobile for better thumb-reach */
+      .m-center div {
+      text-align: center !important;
+      }
+      .m-app-download div {
+      font-size: 14px !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color='#D52234' padding-bottom='0'>
+      <mj-column padding='0' width='100%'>
+
+        <mj-text align='center'>
+          <p style='color: #ffffff;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;line-height: 20px;text-align: center;padding:0;margin:0;font-weight: 700;'>
+            Register on our app and get 10% off your first order
+          </p>
+        </mj-text>
+
+        <mj-image padding='0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/logo_rebajasaw_rojo.jpg' align='center'></mj-image>
+
+      </mj-column>
+
+      <mj-image src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_1.jpg' padding='0'></mj-image></mj-section>
+    <mj-section background-color='#D52234'><mj-column>
+
+        <mj-text padding-bottom='0' css-class="m-title">
+          <h2 style="color: #ffffff;font-family: 'Helvetica', Arial, sans-serif;font-size:50px;text-align: center;text-transform:uppercase;font-weight:700; margin:0;">SALE UP TO -40%</h2>
+        </mj-text>
+
+        <mj-text padding-top='0' css-class="m-header">
+          <p style="color: #ffffff;font-family: 'Helvetica', Arial, sans-serif;font-size:19px;text-align: center;font-weight:400;"><b>ONLINE |</b> On selected items*</p>
+        </mj-text>
+
+        <mj-button css-class="m-button" background-color='#ffffff' border-radius='0' width='100%'><b style="color:#D52234;font-family:  Arial, sans-serif;font-size:20px;line-height:35px;text-transform: uppercase;font-weight:600; padding:0;">SEE DISCOUNTS</b></mj-button>
+
+      </mj-column></mj-section>
+    <mj-section padding='0' background-color='#D52234'><mj-group>
+        <mj-column width='66.3%' padding='0'>
+
+          <mj-image padding='0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_2.jpg'></mj-image>
+
+        </mj-column>
+        <mj-column width='33.7%' padding='0'>
+
+          <mj-image padding='0 0 4px 8px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_3.jpg'></mj-image>
+
+          <mj-image padding='4px 0 0 8px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_4.jpg'></mj-image>
+
+        </mj-column>
+      </mj-group></mj-section>
+    <mj-section background-color='#D52234'>
+      <mj-column>
+
+        <mj-button css-class="m-button" background-color='#ffffff' border-radius='0' width='100%'><b style="color:#D52234;font-family:  Arial, sans-serif;font-size:20px;line-height:35px;text-transform: uppercase;font-weight:600; padding:0;">SHOP</b></mj-button>
+
+      </mj-column></mj-section>
+
+    <mj-section padding='0' background-color='#D52234'><mj-group>
+
+        <mj-column width='33.7%' padding='0'>
+
+          <mj-image padding='0 8px 4px 0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_5.jpg'></mj-image>
+
+          <mj-image padding='4px 8px 0 0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_6.jpg'></mj-image>
+
+        </mj-column>
+        <mj-column width='66.3%' padding='0'>
+
+          <mj-image padding='0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_7.jpg'></mj-image>
+
+        </mj-column>
+      </mj-group></mj-section>
+    <mj-section background-color='#D52234'>
+      <mj-column>
+
+        <mj-button css-class="m-button" background-color='#ffffff' border-radius='0' width='100%'><b style="color:#D52234;font-family:  Arial, sans-serif;font-size:20px;line-height:35px;text-transform: uppercase;font-weight:600; padding:0;">see more</b></mj-button>
+
+      </mj-column></mj-section>
+
+    <mj-section padding='0' background-color='#D52234'><mj-group>
+        <mj-column width='66.3%' padding='0'>
+
+          <mj-image padding='0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_8.jpg'></mj-image>
+
+        </mj-column>
+        <mj-column width='33.7%' padding='0'>
+
+          <mj-image padding='0 0 4px 8px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_9.jpg'></mj-image>
+
+          <mj-image padding='4px 0 0 8px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/image_10.jpg'></mj-image>
+
+        </mj-column>
+      </mj-group></mj-section>
+    <mj-section background-color='#D52234'>
+      <mj-column>
+
+        <mj-button css-class="m-button" background-color='#ffffff' border-radius='0' width='100%'><b style="color:#D52234;font-family:  Arial, sans-serif;font-size:20px;line-height:35px;text-transform: uppercase;font-weight:600; padding:0;">VIEW ALL</b></mj-button>
+
+      </mj-column></mj-section>
+    <mj-section padding='0'>
+
+      <mj-image padding='0' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/banners/recomendador/images/GIF_RECOMMENDATION.gif'></mj-image></mj-section>
+
+    <mj-section><mj-group><mj-column padding='0'>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/f2cf/6b80/146445e0b0f5/65aa70b24352/01465341709-c1/01465341709-c1.jpg?ts=1761043537835&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">1465 Slim-fit mom je...</p>
+          </mj-text>
+
+        </mj-column>
+        <mj-column>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/23ba/39bb/bd334335b4e7/07f0511d7dd5/01450251703-c1/01450251703-c1.jpg?ts=1764002010813&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">D09 Super high-waist...</p>
+          </mj-text>
+
+        </mj-column>
+        <mj-column>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/6144/3bf2/37c6471da7be/630920ab14b8/02027571146-c/02027571146-c.jpg?ts=1746027044621&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">Linen-look flowing s...</p>
+          </mj-text>
+
+        </mj-column></mj-group></mj-section>
+
+    <mj-section padding-top='0'><mj-group><mj-column padding='0'>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/7132/ed5e/53d245dc8a51/b4929112eecd/01270458148-c/01270458148-c.jpg?ts=1744641608985&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">Boho midi skirt</p>
+          </mj-text>
+
+        </mj-column>
+        <mj-column>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/344a/7c71/31294149adcd/7a9e54ff29db/04874808700-c1/04874808700-c1.jpg?ts=1761043549350&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">D04 low rise flared ...</p>
+          </mj-text>
+
+        </mj-column>
+        <mj-column>
+
+          <mj-image padding='0 4px 0 4px' src='https://static.e-stradivarius.net/assets/public/9ec3/1059/5a0e44b09651/5c37af3fa41d/06624475001-c1/06624475001-c1.jpg?ts=1763366389992&w=1300'></mj-image>
+
+          <mj-text>
+            <p style="color: #000000;font-family:  Arial, Helvetica, sans-serif;font-size: 14px;text-align: center;line-height:18px;">Halter top with rhin...</p>
+          </mj-text>
+
+        </mj-column></mj-group></mj-section>
+
+    <mj-section><mj-column>
+
+        <mj-image src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/2025/rebajas_aw25/07.bestof/images/Mensaje_US.png'></mj-image>
+
+        <mj-button css-class="m-button" background-color='#D52234' border-radius='0' width='100%'><b style="color:#ffffff;font-family:  Arial, sans-serif;font-size:20px;line-height:35px;text-transform: uppercase;font-weight:600; padding:0;">GRAB IT!</b></mj-button>
+
+      </mj-column></mj-section>
+
+    <mj-section><mj-column>
+
+        <mj-text padding='0'>
+          <div style="font-size:14px;font-family:Arial, Helvetica, serif;line-height:20px;color:#000000;margin:0;border:1px solid #DBDBDB;border-left:none;border-collapse:collapse;text-transform: uppercase;padding:20px; text-align:center;">NEW IN</div>
+        </mj-text>
+
+      </mj-column>
+      <mj-column>
+
+        <mj-text padding='0'>
+          <div style="font-size:14px;font-family:Arial, Helvetica, serif;line-height:20px;color:#000000;margin:0;border:1px solid #DBDBDB;border-left:none;border-collapse:collapse;text-transform: uppercase;padding:20px; text-align:center;">TROUSERS</div>
+        </mj-text>
+
+      </mj-column>
+      <mj-column>
+
+        <mj-text padding='0'>
+          <div style="font-size:14px;font-family:Arial, Helvetica, serif;line-height:20px;color:#000000;margin:0;border:1px solid #DBDBDB;border-left:none;border-collapse:collapse;text-transform: uppercase;padding:20px;text-align:center;">JEANS</div>
+        </mj-text>
+
+      </mj-column>
+      <mj-column>
+
+        <mj-text padding='0'>
+          <div style="font-size:14px;font-family:Arial, Helvetica, serif;line-height:20px;color:#000000;margin:0;border:1px solid #DBDBDB;border-left:none;border-right:none;border-collapse:collapse;text-transform: uppercase;padding:20px;text-align:center;">SHOES</div>
+        </mj-text>
+
+      </mj-column></mj-section>
+    <mj-section padding='0' border-bottom='1px solid #DBDBDB'>
+      <mj-group><mj-column width='50%'>
+
+          <mj-text css-class='m-app-download' padding-top='0' color='#000000' font-family='Arial, Helvetica, sans-serif' font-size='17px' text-align='left' line-height='22px' font-weight='700' text-transform=' uppercase'>DOWNLOAD THE APP</mj-text>
+
+        </mj-column>
+        <mj-column width='25%' padding-top='0'>
+
+          <mj-image padding='0' width='115px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/dynamic-content/footer_2025/images/apple_2025.png'></mj-image>
+
+        </mj-column>
+        <mj-column width='25%' padding-top='0'>
+
+          <mj-image padding='0' width='115px' src='https://messages.stradivarius.com/assets/responsysimages/industria004/contentlibrary/campaigns/dynamic-content/footer_2025/images/google_2025.png'></mj-image>
+
+        </mj-column></mj-group></mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column padding='0' width='60%'>
+
+        <mj-text align="left" font-family='  Arial, Helvetica, sans-serif' font-size=' 12px'>
+          Free home delivery or pick-up point on orders over 50$
+        </mj-text>
+
+      </mj-column>
+      <mj-column width='20%' padding='0'>
+
+        <mj-social font-family='  Arial, Helvetica, sans-serif' font-size="12px" mode="horizontal" padding='0 10px'>
+          <mj-social-element href="#">Instagram</mj-social-element>
+          <mj-social-element href="#">TikTok</mj-social-element>
+          <mj-social-element href="#">Facebook</mj-social-element>
+        </mj-social>
+
+      </mj-column>
+      <mj-column width='20%' padding='0 10px'>
+
+        <mj-social padding='0' font-family='  Arial, Helvetica, sans-serif' font-size="12px" mode="horizontal">
+          <mj-social-element href="#">X</mj-social-element>
+          <mj-social-element href="#">Spotify</mj-social-element>
+          <mj-social-element href="#">Youtube</mj-social-element>
+        </mj-social>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-top="0">
+
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding-bottom="40px">
+      <mj-column padding="0">
+
+        <mj-text mj-class="footer-small" padding-bottom="15px">
+          If you cannot see this email correctly, <a href="#" style="color: #9D9D9C; text-decoration: underline;">click here.</a>
+        </mj-text>
+
+        <mj-text mj-class="footer-small" padding-bottom="15px">
+          For any other questions, please visit the Contact section on our website.
+        </mj-text>
+
+        <mj-text mj-class="footer-small" padding-bottom="15px" font-style="italic">
+          *Free delivery only for non-discounted products from the new collection.
+        </mj-text>
+
+        <mj-text mj-class="footer-small" line-height="1.6">
+          You have received this email on behalf of ITX USA LLC. and/or STRADIVARIUS ESPAÑA, S.A. because you have previously authorised us to send you commercial communications from STRADIVARIUS. Please remember that you can obtain further information about how we use your personal data and what your rights are in the Privacy Policy available on the STRADIVARIUS website.
+        </mj-text>
+
+        <mj-text mj-class="footer-small" padding-top="20px">
+          If you want to unsubscribe <a href="#" style="color: #9D9D9C; text-decoration: underline;">click here.</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
