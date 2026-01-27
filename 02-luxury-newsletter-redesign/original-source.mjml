@@ -1,0 +1,245 @@
+<mjml>
+  <mj-head>
+
+    <mj-raw>
+      <meta name="color-scheme" content="light dark">
+      <meta name="supported-color-schemes" content="light dark">
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" color="#222222" />
+
+      <mj-text line-height="1.6" font-size="16px" />
+      <mj-class name="preheader" font-size="12px" color="#888888" text-transform="uppercase" letter-spacing="1px" />
+      <mj-class name="heading" font-family="Georgia, serif" font-size="32px" line-height="1.2" font-style="italic" />
+    </mj-attributes>
+
+    <mj-style>
+      @media (prefers-color-scheme: dark) {
+      /* Main background and section backgrounds */
+      .dark-bg, .dark-bg > table {
+      background-color: #1a1a1a !important;
+      }
+      /* Secondary "beige" background for editorial cards */
+      .dark-beige, .dark-beige > table {
+      background-color: #2a2a2a !important;
+      }
+      /* This targets the card background specifically */
+      .dark-card,
+      .dark-card > table,
+      .dark-card > table > tbody > tr > td {
+      background-color: #121212 !important;
+      }
+      /* Text color overrides */
+      .dark-text div, .dark-text a {
+      color: #ffffff !important;
+      }
+      .dark-subtext div {
+      color: #bbbbbb !important;
+      }
+      .card-link a {
+      color: #ffffff !important;
+      border-bottom: 2px solid #D52234 !important;
+      }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="#fcfaf7">
+    <mj-section padding="10px 20px" background-color="#fcfaf7">
+      <mj-column>
+
+        <mj-text mj-class="preheader" align="center">Of tea, soup, castle and fires.</mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="0" background-color="#ffffff" css-class="dark-bg">
+      <mj-column>
+
+        <mj-image src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzBsanoxZnAwOG5wemFvN2VjMGpqbDhybzJ2bWU0MG5kazlvYjExbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1Y7BhZmo3L3IsmnBK9/giphy.gif" padding="0" height='180px' />
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" css-class="dark-bg" padding="40px 20px">
+      <mj-column>
+
+        <mj-text mj-class="heading" padding-bottom="30px" css-class="dark-text">Happy New Year, Friend</mj-text>
+
+        <mj-text css-class="dark-text" align='left'>
+          I hope you had a wonderful break and a gentle start to the new year.
+
+          I spent my break with my in-laws in the UK and then celebrated my birthday (I'm 43, which is awesome as it's a prime number!) and New Year's Eve in one of my favourite places: the Chateau Coliving in Normandy, France.
+
+          Yep, I returned for the 3rd time in one year, there's just something magical about this place, even (or especially in the depth of winter).
+
+          Despite being sick with a nasty cold (and losing my voice after singing karaoke until 4 am on NYE 😂), it's been the perfect place to start the New Year, with lovely people, cosy fires, fun board games and lots and lots of tea.
+
+          Of course, the world, big brands and the ever-powerful algorithm have been sending me the not-so-subtle message that it's time to hustle! To jump straight back into work, to hit the ground running...and all the usual nonsense. 🙄
+
+          In the past, I got sucked into this so quickly, I'd have a tummy ache from anxiety before the first week of the year was even over. 🥺
+        </mj-text>
+
+        <mj-image src="https://bucket.mlcdn.com/a/750/750358/images/c5344980a2f2c6a02826de23f8092394b1b8f925.gif" padding="30px 0" alt="New Year Illustration" width='300px' />
+
+        <mj-text css-class="dark-text" padding-top="20px" align='left'>
+          Thankfully, I've been working very hard on questioning this narrative, both personally as well as within DNG and our membership, The Lab (which just entered its 9th year, yaaaay!).
+
+          And I'm definitely noticing a big shift in New Year's vibe, as many of us have been shedding layer upon layer of ingrained hustle culture and toxic productivity.
+
+          We started the year in the Lab with our usual coworking sessions as well as some gentle, cosy events: Craft & Chat and Tea Time.
+
+          January's Tea Time topic was Easing Into The Year and we all shared how we're arriving in this new year and what easing in means to us.
+
+          I thought I'd share a few ideas and thoughts with you today:
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fcfaf7" padding="40px 20px" css-class="dark-beige">
+      <mj-column width="100%">
+
+        <mj-text mj-class="preheader" align="center" padding-bottom="10px">The Winter Library</mj-text>
+
+        <mj-text mj-class="heading" align="center" font-size="28px" padding-bottom="30px" css-class="dark-text">Easing Into the Year</mj-text>
+
+      </mj-column>
+
+      <mj-column width="48%" background-color="#ffffff" padding="10px" css-class="dark-card">
+
+        <mj-image src="https://ci3.googleusercontent.com/meips/ADKq_NZgJOLzqNhjZHHZcHPB0BEXIvcE65jk_nLnxVkeQKkFKrmPFN1WEVhTQEf0SI3Eomf1_s4tQfeC1kyzj3munPWB5dEqs7nSLXGZ7ugd8LlIucshU17HJWe--HetR_o--0Fe2dsBu2tY-M2sCftnfQ=s0-d-e1-ft#https://bucket.mlcdn.com/a/750/750358/images/e0f5e7b962ec4d22825e5e33d49fc0e5d3509dc5.gif" height="150px" padding="0" />
+
+        <mj-text padding="20px 15px 10px" font-weight="bold" font-size="14px" css-class="dark-text">CASTLE MAINTENANCE</mj-text>
+
+        <mj-text padding="0 15px 20px" font-size="13px" color="#555555" css-class="dark-subtext">Here at the Chateau, one of the most important maintenance activities is keeping the firewood chopped and stocked, so we can keep the cosy fire going all day. It's a slow, manual and very mindful task, and surprisingly enjoyable. 🪵
+
+          Maintenance might feel less exciting than starting work on a shiny new idea, but it's just as important, if not more. Who knows, it might even save you a bunch of work in the future.
+        </mj-text>
+
+        <mj-text padding="0 15px 20px" css-class="card-link">
+          <a href="#" style="color: #222222; text-decoration: none; border-bottom: 2px solid #D52234; font-weight: bold; font-size: 12px;" class="dark-text">What are some maintenance tasks you might like to dedicate some time to this winter? I'd love to hear about them! Hit reply!</a>
+        </mj-text>
+
+      </mj-column>
+
+      <mj-column width="4%">
+
+      </mj-column>
+
+      <mj-column width="48%" background-color="#ffffff" padding="10px" css-class="dark-card">
+
+        <mj-image src="https://bucket.mlcdn.com/a/750/750358/images/5429582b5442f7f74ee204c1452f7a2cded8b71a.gif" height="150px" padding="0" />
+
+        <mj-text padding="20px 15px 10px" font-weight="bold" font-size="14px" css-class="dark-text">A TIME TO SHRAPEN OUR TOOLS</mj-text>
+
+        <mj-text padding="0 15px 20px" font-size="13px" color="#555555" css-class="dark-subtext">Our member Laura P. shared that January is a time for composting the old to allow new things to grow. It's a time to sharpen your tools 🪚, check the pantry stocks 🍯, or mend what's broken 🪡.I absolutely love this imagery, and it's a wonderful reminder that this time of year is great for maintenance, not so much for growth or exploration.</mj-text>
+
+        <mj-text padding="0 15px 20px" css-class="card-link">
+          <a href="#" style="color: #222222; text-decoration: none; border-bottom: 2px solid #D52234; font-weight: bold; font-size: 12px;" class="dark-text">BOOK NOW</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" css-class="dark-bg" padding="40px 20px">
+      <mj-column>
+
+        <mj-text mj-class="preheader" font-size="14px" padding-bottom="10px">🏰 Join the FINAL Writers Haven at the Chateau Coliving next month (get €500 off with our code!)</mj-text>
+
+        <mj-text css-class="dark-text">
+          Last November, I was lucky enough to take part in the 2nd Writers Haven, and next month it's returning to the Chateau for <b>a third and final time!</b></mj-text>
+
+        <mj-text css-class="dark-text">
+
+          If you're a writer (no matter what kind of writing or if you get paid for it), then this is a magical experience that I can highly recommend and it's the last time it's being organised. </mj-text>
+
+        <mj-text css-class="dark-text">
+          It's not too late to sign up, and you can even <b>get €500 off with the code 'WRITEORDIE'.</b> </mj-text>
+
+        <mj-text css-class="dark-text">
+          My friend and Lab member Kristen will be hosting it, she's brilliant, funny, sweet and has great snacks!
+
+          <a href="#" style="color:#222222; text-decoration:none; border-bottom:2px solid #D52234;" class="dark-text">Check out the details and book here.</a>
+        </mj-text>
+
+        <mj-text css-class="dark-text" color="#888888" font-style='italic'>p.s. I mention the Chateau A LOT because I love it here. This is not a paid ad but a recommendation by a friend. </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fcfaf7" padding="20px 20px 40px" css-class="dark-beige">
+      <mj-column width="48%" background-color="#ffffff" padding="20px 15px" css-class="dark-card" border-top="4px solid #D52234">
+
+        <mj-text font-weight="bold" font-size="16px" padding-bottom="10px" css-class="dark-text">
+          👯‍♀️ IN THE LAB
+        </mj-text>
+
+        <mj-text font-size="13px" line-height="1.5" css-class="dark-subtext">
+          It's officially Cosy Season! Join our Planning Parties or the new 4-part workshop series on Joy & Purpose.
+        </mj-text>
+
+        <mj-text padding-top="15px">
+          <a href="#" style="color: #D52234; font-weight: bold; font-size: 12px; text-decoration: none;" class="dark-text">USE CODE: COSYSEASON25</a>
+        </mj-text>
+
+      </mj-column>
+
+      <mj-column width="4%">
+
+      </mj-column>
+
+      <mj-column width="48%" background-color="#ffffff" padding="20px 15px" css-class="dark-card" border-top="4px solid #222222">
+
+        <mj-text font-weight="bold" font-size="16px" padding-bottom="10px" css-class="dark-text">
+          ✨ SPRINKLES
+        </mj-text>
+
+        <mj-text font-size="13px" line-height="1.5" css-class="dark-subtext">
+          Digital Detox Challenge this Sunday, plus 4 positive tipping points to start your year with hope.
+        </mj-text>
+
+        <mj-text padding-top="15px" css-class="card-link">
+          <a href="#" style="color: #222222; text-decoration: underline; font-size: 12px;" class="dark-text">READ MORE</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" css-class="dark-bg" padding="40px 20px"><mj-column>
+
+        <mj-text mj-class="preheader" align="center" padding-bottom="10px">Until next time! Stay cosy!</mj-text>
+
+        <mj-text mj-class="heading" align="center" font-size="28px" padding-bottom="30px" css-class="dark-text">Jenny</mj-text>
+
+      </mj-column></mj-section>
+    <mj-section background-color="#f4f4f4" padding="40px 20px" css-class="dark-bg">
+      <mj-column>
+
+        <mj-text font-style="italic" font-size="14px" color="#555555" align="center" padding-bottom="20px" css-class="dark-subtext">
+          Each week I share an honest glimpse of what it's really like to work location independently — beyond the passport stamps and "passive" income.
+        </mj-text>
+
+        <mj-text font-size="14px" align="center" padding-bottom="40px" css-class="dark-text">
+          If you enjoy this newsletter, please forward it to a friend! <br />
+          Are you that friend? <a href="#" style="color: #222222; font-weight: bold; text-decoration: underline;" class="dark-text">Then sign up here!</a> (and hi there! 👋)
+        </mj-text>
+
+        <mj-divider border-width="1px" border-color="#dddddd" />
+
+        <mj-text font-size="11px" color="#888888" align="center" padding-top="30px" line-height="1.4">
+          Digital Nomad Girls Ltd, Kemp House 160 City Road London, EC1V 2NX, London, UK
+        </mj-text>
+
+        <mj-text font-size="11px" color="#888888" align="center" padding-top="10px">
+          You received this email because you signed up on our website or made a purchase from us.
+        </mj-text>
+
+        <mj-text font-size="11px" align="center" padding-top="15px">
+          <a href="#" style="color: #888888; text-decoration: underline;">Unsubscribe</a>
+        </mj-text>
+
+        <mj-image src="https://bucket.mlcdn.com/a/750/750358/images/58e239247f9f36b6f387693994e41793740e74f1.png" width="80px" padding-top="30px" />
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
