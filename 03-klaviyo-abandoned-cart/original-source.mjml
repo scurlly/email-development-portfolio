@@ -1,0 +1,74 @@
+<mjml>
+  <mj-head>
+    <mj-title>Your cart is waiting</mj-title>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, Arial, sans-serif" color="#222222" />
+      <mj-text line-height="1.5" />
+    </mj-attributes>
+    <mj-style>
+      .btn-hover a:hover { background-color: #333333 !important; }
+      .product-title { font-size: 18px; font-weight: bold; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f9f9">
+
+    <mj-section padding="30px 0">
+      <mj-column>
+        <mj-text align="center" font-size="20px" font-weight="bold" letter-spacing="3px">MODERN GOODS</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="40px 20px">
+      <mj-column width="100%">
+        <mj-text align="center" font-size="12px" color="#999999" letter-spacing="1px">READY WHEN YOU ARE</mj-text>
+        <mj-text align="center" font-size="34px" font-weight="bold" padding-top="10px">
+          Still thinking about it, {{ first_name|default:'there' }}?
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#666666" padding="10px 40px">
+          Good news: we've saved your items. Bad news: our stock is limited and these pieces are favorites.
+        </mj-text>
+        <mj-button background-color="#000000" color="#ffffff" border-radius="0px" font-weight="bold" padding-top="30px" inner-padding="15px 40px" href="{{ event.extra.checkout_url }}">
+          RESUME CHECKOUT
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" padding="0 20px 40px">
+  <mj-column width="100%" border="1px solid #eeeeee" padding="15px">
+    <mj-group>
+      <mj-column width="35%">
+        <mj-image src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=200&q=80" 
+                  width="80px" 
+                  padding="0" 
+                  padding-right="10px"
+                  align="left" 
+                  border-radius="4px" />
+      </mj-column>
+      <mj-column width="65%">
+        <mj-text padding="0 0 5px 0" font-size="12px" color="#888888" text-transform="uppercase">In your cart:</mj-text>
+        <mj-text padding="0 0 5px 0" font-size="16px" font-weight="bold">{{ event.extra.line_items.0.product.title|default:'Minimalist Watch' }}</mj-text>
+        <mj-text padding="0" font-size="15px" font-weight="bold" color="#333333">{{ event.extra.line_items.0.line_price|default:'$125.00' }}</mj-text>
+      </mj-column>
+    </mj-group>
+  </mj-column>
+</mj-section>
+
+    <mj-section background-color="#f4f4f4" padding="30px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="14px">Don't miss out! Use this code for free shipping:</mj-text>
+        <mj-text align="center" font-size="24px" font-weight="bold" padding-top="10px" letter-spacing="2px">FREESHIP26</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="40px 20px">
+      <mj-column>
+        <mj-text align="center" font-size="11px" color="#aaaaaa">
+          &copy; 2026 Modern Goods. All rights reserved. <br />
+          You're receiving this because you left items in your cart. <br />
+          <a href="#" style="color: #aaaaaa;">Unsubscribe</a> | <a href="#" style="color: #aaaaaa;">Privacy Policy</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
